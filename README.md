@@ -16,7 +16,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, Machine Learning, MySQL, Scrapy, Next**
+- 🔭 I’m currently working on **Python, Machine Learning, MySQL, Data Science, Data Analysis, Power BI**
 
 - 🌱 Learning advanced machine learning for a versatile skill set
   
