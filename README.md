@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Dev Goel</h1>
-<h3 align="center">Undergraduate at IIT, Jodhpur🌟.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Hritic Sharma</h1>
+<h3 align="center">Passionate about data science, aspiring to make an impact.🌟.</h3>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -16,17 +16,19 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, Nodejs, MySQL, Scrapy, NextJS**
+- 🔭 I’m currently working on **Python, Machine Learning, MySQL, Scrapy, Next**
 
-- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
+- 🌱 Learning advanced machine learning for a versatile skill set
   
 - 👍 A passion for learning new technologies.
   
-- 😊 Willing to contribute in Open Source projects.
+- 😊 Willing to contribute in Data Science projects.
 
-- 📫 Feel free to reach me out **goel.7@iitj.ac.in**
-
+- 📫 Feel free to reach me out **physics.hritic@gmail.com**
 <!--Intro end-->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hritic911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritic-sharma-58b187217/) 
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -37,7 +39,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,html,latex,mysql,py,anaconda,vscode&perline=14" />
   </a>
 </p>
 
@@ -45,23 +47,11 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">And more....</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/dev-goel/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/dev._.goel/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>  
-</p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Dev-Goel&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hritic-kun&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hritic-kun&theme=dark&hide_border=false)<br/>
