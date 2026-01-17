@@ -81,7 +81,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,github,mysql,jupyter,anaconda,vscode,aws,docker,html,latex&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,powershell,mysql,aiscript,ai,sklearn,tensorflow,md,git,github,anaconda,vscode,aws,azure,gcp,docker,linux,windows,html,latex&perline=14" />
   </a>
 </p>
 
