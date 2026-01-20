@@ -116,7 +116,7 @@
 <summary><b>🗄️ Databases & Cloud</b></summary>
 
 - **Databases**: MySQL, SQL Server, SQLite, PostgreSQL (learning)
-- **Cloud Platforms**: AWS (EC2, S3), Google Colab
+- **Cloud Platforms**: AWS (EC2, S3), Google Colab, GCP
 - **Containerization**: Docker, Docker Compose
 - **Version Control**: Git, GitHub, GitLab
 
